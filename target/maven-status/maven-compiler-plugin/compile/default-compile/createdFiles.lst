@@ -1,0 +1,12 @@
+com/fullerton/skimmdit/dao/LinkDao.class
+com/fullerton/skimmdit/representation/User.class
+com/fullerton/skimmdit/SkimmditAuthenticator.class
+com/fullerton/skimmdit/resources/LinkResource.class
+com/fullerton/skimmdit/dao/mapper/UserMapper.class
+com/fullerton/skimmdit/SkimmditConfiguration.class
+com/fullerton/skimmdit/representation/Link.class
+com/fullerton/skimmdit/dao/mapper/LinkMapper.class
+com/fullerton/skimmdit/dao/UserDao.class
+com/fullerton/skimmdit/dao/ClientDao.class
+com/fullerton/skimmdit/resources/UserResource.class
+com/fullerton/skimmdit/App.class

@@ -1,0 +1,12 @@
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/dao/mapper/UserMapper.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/resources/UserResource.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/dao/mapper/LinkMapper.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/App.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/resources/LinkResource.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/dao/ClientDao.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/dao/LinkDao.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/representation/User.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/representation/Link.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/dao/UserDao.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/SkimmditConfiguration.java
+/home/ericksilva/JavaProgramming/skimmdit-web-service/web-service-skimmdit/src/main/java/com/fullerton/skimmdit/SkimmditAuthenticator.java

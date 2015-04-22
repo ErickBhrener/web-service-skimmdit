@@ -1,0 +1,30 @@
+CREATE TABLE user
+(
+	username varchar(50) NOT NULL,
+	password varchar(50) NOT NULL,
+	CONSTRAINT user_pkey PRIMARY KEY(username)
+);
+CREATE TABLE link
+(
+	id int NOT NULL IDENTITY,
+	title varchar(100) NOT NULL,
+	description varchar(300) NOT NULL,
+	url varchar(400) NOT NULL,
+	votes int NOT NULL,
+	username varchar(50) NOT NULL,
+  	constraint fk_1 foreign key(username) references user(username)
+);
+CREATE TABLE client
+(
+	username varchar(50) NOT NULL,
+	password varchar(255) NOT NULL,
+  PRIMARY KEY (username)
+);
+
+INSERT INTO "PUBLIC"."CLIENT"
+( "USERNAME", "PASSWORD" )
+VALUES ( 'erick', '1234');
+
+INSERT INTO "PUBLIC"."CLIENT"
+( "USERNAME", "PASSWORD" )
+VALUES ( 'kavery', 'cpsc476')
